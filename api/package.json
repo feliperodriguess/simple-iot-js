@@ -1,0 +1,17 @@
+{
+  "name": "api-j5",
+  "version": "1.0.0",
+  "main": "server.mjs",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "johnny-five": "^2.0.0",
+    "serialport": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
